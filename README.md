@@ -11,5 +11,5 @@
 
 <p>## Usage</p>
 
-<span>```bash</span>
-<code>cargo run <source> <target></code>
+```bash
+cargo run <source> <target>
